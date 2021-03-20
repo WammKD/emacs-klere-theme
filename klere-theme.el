@@ -243,6 +243,7 @@
         `(web-mode-html-attr-value-face            ((,class (:foreground ,keyword))))
         `(web-mode-warning-face                    ((,class (:inherit    ,font-lock-warning-face))))
         `(web-mode-html-tag-face                   ((,class (:foreground ,builtin                      :weight bold))))
+        `(web-mode-css-pseudo-class-face           ((,class (:foreground "cyan3"                       :weight normal))))
         `(jde-java-font-lock-package-face          ((t (:foreground ,var))))
         `(jde-java-font-lock-public-face           ((t (:foreground ,keyword))))
         `(jde-java-font-lock-private-face          ((t (:foreground ,keyword))))
