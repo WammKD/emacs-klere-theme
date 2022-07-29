@@ -4,6 +4,44 @@
   :END:
 A dark Emacs theme with lambent color highlights and incremental grays
 
+** Moved!!!
+  :PROPERTIES:
+  :CUSTOM_ID: moved
+  :END:
+This repo. has been moved to Codeberg, at https://codeberg.org/WammKD/emacs-klere-theme.
+#+HTML: <br>
+#+HTML: <br>
+Any future development will continue there due to Microsoft's
+ownership of GitHub.
+
+And, as always, all contributions are welcome!
+
+*** About Codeberg
+  :PROPERTIES:
+  :CUSTOM_ID: about-codeberg
+  :END:
+[[https://docs.codeberg.org/getting-started/what-is-codeberg/][Codeberg]]
+is a community-driven, non-profit software development platform
+operated by Codeberg e.V. and centered around Codeberg.org, a
+Gitea-based software forge.
+#+HTML: <br>
+#+HTML: <br>
+Codeberg is not a corporation but a community of free software
+enthusiasts providing a humane, non-commercial and privacy-friendly
+alternative to commercial services.
+
+Codeberg e.V. is a registered association based in Berlin,
+Germany. You don't have to be a member of the association in order to
+join Codeberg.org or to contribute to the development of the platform,
+but if you want you can [[https://join.codeberg.org/][join Codeberg
+e.V.]] to support the project financially, be informed about Codeberg
+and, optionally, to actively contribute to the association.
+
+** About Klere
+  :PROPERTIES:
+  :CUSTOM_ID: about-klere
+  :END:
+
 *** Why I Created Klere
     :PROPERTIES:
     :CUSTOM_ID: why-i-created-klere
