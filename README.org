@@ -12,7 +12,8 @@ Put simply, I wanted bright colors though without clashing. I like dark
 themes and colors that seem more radiant; not like they cut through the
 black/dark-gray in distinct lines, like pastels might, but would seem to
 radiate from the dark, softy glowing.
-
+#+HTML: <br>
+#+HTML: <br>
 So, putting colors together bit by bit, I came up with Klere; it's
 bright but not in a way that overpowers its dark-gray background of the
 other shades of gray that outline the other fixtures: vibrant colors for
@@ -35,7 +36,8 @@ it by running =M-x list-packages= in Emacs and searching for
 you don't have the repository added -- yet --, you can find instructions
 for how to add it at the [[https://github.com/melpa/melpa#usage][Melpa
 Github page]].
-
+#+HTML: <br>
+#+HTML: <br>
 If you don't want to use either Melpa or Emacs's package manager, choose
 a directory to store your themes in (or, at least, Klere in) -- such as
 =~/.emacs.d/themes= -- and load them as so:
